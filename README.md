@@ -14,11 +14,12 @@
     * git 
     * nvm 
     * nx 
-    * make 
+    * 
     * hygen 
 
   * Secrets
     * sops 
+    * vault 
   * Cloud providers
     * aws
     * az 
@@ -28,14 +29,18 @@
     * helm 
     * helmfile 
     * istioctl 
-
- 
+  * Build tools
+    * packer 
+    * make
   * IaC Tools
     * Tfenv (Terraform)
     * Tgenv (Terragrunt)
     * tflint 
     * terraform-docs 
-    * infracost
+    * infracost 
+    * 
+  * Network & Monitoring 
+    * Consul
   * Other 
 
     * rclone
