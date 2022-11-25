@@ -8,6 +8,10 @@
   * Node 
   * Python3
 * Shells 
+  * General 
+    * jq 
+    * fzf 
+
   * Developer tools
     * task (taskfile)
     * cheat 
@@ -16,7 +20,7 @@
     * nx 
     * 
     * hygen 
-
+  
   * Secrets
     * sops 
     * vault 
