@@ -1,0 +1,13 @@
+version: '3'
+
+
+
+vars:
+  WORKSPACE_DIR: { sh: git rev-parse --show-toplevel --show-superproject-working-tree }
+
+tasks:
+  build:
+    summary: Build docker image
+    cmds:
+      - docker build -t toolbox .
+
